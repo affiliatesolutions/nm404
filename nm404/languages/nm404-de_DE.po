@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nm404\n"
+"POT-Creation-Date: 2016-06-06 13:59+0100\n"
+"PO-Revision-Date: 2016-06-06 13:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: Affiliate solutions\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../pages/settings.php:6 ../lib/NM404_Admin.php:49 ../lib/NM404_Admin.php:50
+msgid "General"
+msgstr "Allgemein"
+
+#: ../pages/settings.php:11
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../pages/settings.php:16
+msgid "Help"
+msgstr "Hilfe"
+
+#: ../pages/settings.php:29
+msgid "nm404 Status"
+msgstr "nm404 Status"
+
+#: ../pages/settings.php:36
+msgid "License"
+msgstr "Lizenz"
+
+#: ../pages/settings.php:42
+msgid "Author"
+msgstr "Autor"
+
+#: ../pages/settings.php:48
+msgid "Plugin URL"
+msgstr "Plugin URL"
+
+#: ../pages/settings.php:54
+msgid "Plugin Version"
+msgstr "Plugin Version"
+
+#: ../pages/settings.php:81
+msgid "nm404 Settings"
+msgstr "nm404 Einstellungen"
+
+#: ../pages/settings.php:87
+msgid "Error"
+msgstr "Fehler"
+
+#: ../pages/settings.php:93
+msgid "Success"
+msgstr "Erfolg"
+
+#: ../pages/settings.php:94
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"
+
+#: ../pages/settings.php:99
+msgid "Sitemap URL"
+msgstr "Sitemap URL"
+
+#: ../pages/settings.php:106
+#, php-format
+msgid ""
+"Relative (<small>%s</small>) or absolute urls (<small>%s</small>) are "
+"possible."
+msgstr ""
+"Relative (<small>%s</small>) oder absolute Urls (<small>%s</small>) sind "
+"möglich."
+
+#: ../pages/settings.php:107
+msgid "The default sitemap url is <small>/sitemap.xml</small> ."
+msgstr "Die Standard Sitemap URL lautet <small>/sitemap.xml</small> ."
+
+#: ../pages/settings.php:111
+msgid "Sitemap entries limit"
+msgstr "Sitemap Einträge Limit"
+
+#: ../pages/settings.php:114
+msgid ""
+"For large blogs parsing dynamically generated XML-Sitemaps can take a lot of "
+"time."
+msgstr ""
+"Das Erstellen von dynamisch generierten XML-Sitemaps kann bei großen Blogs "
+"sehr lange dauern."
+
+#: ../pages/settings.php:115
+msgid ""
+"Limiting the entries parsed, increases speed but lowers quality of result."
+msgstr ""
+"Das Limitieren der berücksichtigten Einträge erhöht die Performance, jedoch "
+"wird die Qualität des Ergebnisses verschlechtert."
+
+#: ../pages/settings.php:116
+msgid ""
+"If your sitemap is split into more then one file, the limit is used for each "
+"single file."
+msgstr ""
+"Falls deine Sitemap in mehreren Dateien zerlegt ist, wird das Limit for jede "
+"einzelne Sitemap Datei verwendet."
+
+#: ../pages/settings.php:117
+msgid "The default limit for entries is 1000."
+msgstr "Der Standardwert Limitierungswert für Einträge ist 1000."
+
+#: ../pages/settings.php:118
+msgid "If you want to parse unlimited entries, set the limit to <b>-1</b>."
+msgstr ""
+"Falls du unlimitiert Einträge berücksichtigen willst, setzte den Wert auf "
+"<b>-1</b>."
+
+#: ../pages/settings.php:123
+msgid "Sitemap retrieving timeout in seconds"
+msgstr "Timeout für das Laden der Sitemap in Sekunden"
+
+#: ../pages/settings.php:126
+msgid ""
+"If the nm404 url lookup runs into a timeout, the user will be shown the "
+"default 404 error page of your theme."
+msgstr ""
+"Falls der nm404 URL Suchvorgang in einen Timeout  rennt erhält der Benutzer "
+"die Standard 404 Fehlerseite deines Themes zu sehen."
+
+#: ../pages/settings.php:127
+msgid "The default timeout for retrieving the sitemap.xml is 3 seconds."
+msgstr "Der Standardwert für das Laden der sitemap.xml ist 3 Sekunden."
+
+#: ../pages/settings.php:136
+msgid "Save"
+msgstr "Speichern"
+
+#: ../pages/settings.php:149
+msgid "German Video Tutorials"
+msgstr "Deutsche Video Tutorials"
+
+#: ../pages/settings.php:162
+msgid "Support"
+msgstr "Support"
+
+#: ../pages/settings.php:169
+msgid "Support Forum:"
+msgstr "Support Forum:"
+
+#: ../pages/settings.php:176
+msgid "Facebook Group:"
+msgstr "Facebook Gruppe:"
+
+#: ../pages/settings.php:192
+msgid "Social Networks"
+msgstr "Soziale Netzwerke"
+
+#: ../pages/settings.php:277
+msgid "Additional Plugins of Affiliate solutions"
+msgstr "Weitere Plugins von Affiliate solutions"
+
+#: ../pages/settings.php:285
+msgid "https://offer.affiliate-solutions.xyz/bounce-jammer-en/"
+msgstr "https://offer.affiliate-solutions.xyz/bounce-jammer-de/"
+
+#: ../pages/settings.php:295
+msgid "https://offer.affiliate-solutions.xyz/digi2mailpoet-en/"
+msgstr "https://offer.affiliate-solutions.xyz/digi2mailpoet-de/"
+
+#: ../pages/settings.php:305
+msgid "https://offer.affiliate-solutions.xyz/customer-retargeting-en/"
+msgstr "https://offer.affiliate-solutions.xyz/customer-retargeting-de/"
+
+#: ../pages/settings.php:315
+msgid "https://offer.affiliate-solutions.xyz/moreads-se-premium-en/"
+msgstr "https://offer.affiliate-solutions.xyz/moreads-se-premium-de/"
+
+#: ../pages/errors.php:7
+msgid "nm404 Errors (Last 30 entries)"
+msgstr "nm404 Fehler (Letzte 30 Einträge)"
+
+#: ../pages/errors.php:13 ../pages/statistics.php:13
+msgid "#"
+msgstr "#"
+
+#: ../pages/errors.php:14
+msgid "Time"
+msgstr "Zeit"
+
+#: ../pages/errors.php:15
+msgid "Message"
+msgstr "Nachricht"
+
+#: ../pages/errors.php:40 ../pages/statistics.php:34
+msgid "Clear logs"
+msgstr "Leere Logs"
+
+#: ../pages/statistics.php:7
+msgid "nm404 Statistics (Last 1000 redirects)"
+msgstr "nm404 Statistiken (Letzten 1000 Umleitungen)"
+
+#: ../pages/statistics.php:14
+msgid "URL"
+msgstr "URL"
+
+#: ../pages/statistics.php:15
+msgid "Redirects"
+msgstr "Umleitungen"
+
+#: ../lib/NM404_Admin.php:20 ../lib/NM404_Admin.php:30
+#, php-format
+msgid "nm404: An error has occurred, could not write to log file \"%s\"."
+msgstr ""
+"nm404: Ein Fehler ist aufgetreten, konnte in die Log Datei \"%s\" nicht "
+"schreiben."
+
+#: ../lib/NM404_Admin.php:38 ../lib/NM404_Admin.php:39
+msgid "nm404"
+msgstr "nm404"
+
+#: ../lib/NM404_Admin.php:59 ../lib/NM404_Admin.php:60
+msgid "Statistics"
+msgstr "Statistiken"
+
+#: ../lib/NM404_Admin.php:68 ../lib/NM404_Admin.php:69
+msgid "Error Logs"
+msgstr "Fehlermeldungen"
+
+#: ../lib/NM404_Admin.php:153 ../lib/NM404_Admin.php:157
+#, php-format
+msgid "Could not access sitemap %s "
+msgstr "Konnte auf die Sitemap %s nicht zugreifen"
+
+#: ../lib/classes/Redirector404.php:79
+#, php-format
+msgid ""
+"Loading of %s took longer than %d seconds or resulted in an 404 http error, "
+"displaying default 404 error page."
+msgstr ""
+"Das Laden von %s hat länger als %d Sekunden gedauert oder der Aufruf der "
+"Sitemap führte zu einem 404 HTTP Fehler. Zeige die Standard 404 Fehlerseite "
+"an."
+
+#: ../lib/classes/Redirector404.php:89
+#, php-format
+msgid ""
+"Loading of the sub sitemaps (execution time in seconds: %d, timeout in "
+"seconds: %d) exhausted the timeout, displaying default 404 error page."
+msgstr ""
+"Das Laden der Sub Sitemap ist in einem Timeout gelaufen (Ausführungszeit: "
+"%d, Timeout in sekunden %d). Zeige 404 Fehlerseite an."
+
+#: ../lib/classes/Redirector404.php:112
+#, php-format
+msgid ""
+"Loading of %s took longer than %d seconds or resulted in an http 404 error, "
+"displaying default 404 error page."
+msgstr ""
+"Das Laden von %s hat länger als %d Sekunden gebraucht oder der HTTP-Aufruf "
+"gab einen 404 Fehlercode zurück. (Stelle 404 Fehlerseite da)"
+
+#~ msgid "Support:"
+#~ msgstr "Support:"
+
+#~ msgid "Author:"
+#~ msgstr "Autor:"
+
+#~ msgid "Support & Social Sharing"
+#~ msgstr "Support & Soziale Netzwerke"
+
+#~ msgid "Facebook Fanpage:"
+#~ msgstr "Facebook Fanpage:"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Youtube"
+#~ msgstr "Youtube"
+
+#~ msgid "Google +"
+#~ msgstr "Google +"
+
+#~ msgid "Recommended Plugins"
+#~ msgstr "Empfohlene Plugins"
+
+#~ msgid "NM404"
+#~ msgstr "NM404"
