@@ -25,3 +25,54 @@ The recommended plugin to generate the required sitemap.xml for nm404 is [Better
 
 
 More infos about this project at: https://www.affiliate-solutions.xyz/produkte/nomore404/
+
+## Installation
+
+* Install any sitemap plugin like [Better WordPress Google XML Sitemap](https://wordpress.org/plugins/bwp-google-xml-sitemaps/ "Better WordPress Google XML Sitemap") to generate the needed sitemap.xml for nm404
+* Activate the plugin nm404
+* Optionally configure the settings of nm404 for better speed or better result
+
+## Frequently Asked Questions
+
+### How do I configure "no more 404"?
+
+> You can set the URL of you sitemap.xml and the number of records to be parsed in the admin backend. No more configuration is required.
+> It simply does what it is supposed to.
+
+### Why some redirections seem to take too long?
+
+> For some blogs with more than 10000 articles for example, it could take a little bit to search on that larger sitemap.xml the appropiate match for the request.
+> To avoid a delay you may either cache your sitemap.xml (e.g. through varnish) or put a static sitemap.xml in your document-root.
+
+### Will the plugin get any enhancements in future?
+
+> We are continuously improving this plugin. In future it will be possible to configure some nice options, so stay tuned!
+
+## Changelog
+
+### 2.0.9
+
+* Statistics Improvement
+
+### 2.0.7
+
+* Updated Support Page
+
+### 2.0.5
+
+* Admin Layout Update / Added Video Tutorial
+
+### 2.0.3
+
+* fixed bug in queue logic
+
+### 2.0.2
+
+* fixed typo
+
+### 2.0.1
+
+* bugfix
+
+### 2.0.0
+* reworked nm404 public release
