@@ -6,6 +6,6 @@ Avoids any 404 errors on your Wordpress-Site by redirecting the request to the c
 
 **Requires sitemap.xml**
 
-Just install and activate the plugin. nm404 don't need any further configuration.
+Just install and activate the plugin. nm404 doesn't need any further configuration.
 
 More infos about this project at: https://www.affiliate-solutions.xyz/produkte/nomore404/
