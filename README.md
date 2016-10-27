@@ -23,15 +23,23 @@ The recommended plugin to generate the required sitemap.xml for nm404 is [Better
 * English
 * German
 
+## Contents
+
+- [Installation](#installation)
+- [Frequently Asked Questions](#faq)
+- [Changelog](#changelog)
+
 
 More infos about this project at: https://www.affiliate-solutions.xyz/produkte/nomore404/
 
+<a name="installation"></a>
 ## Installation
 
 * Install any sitemap plugin like [Better WordPress Google XML Sitemap](https://wordpress.org/plugins/bwp-google-xml-sitemaps/ "Better WordPress Google XML Sitemap") to generate the needed sitemap.xml for nm404
 * Activate the plugin nm404
 * Optionally configure the settings of nm404 for better speed or better result
 
+<a name="faq"></a>
 ## Frequently Asked Questions
 
 ### How do I configure "no more 404"?
@@ -48,6 +56,7 @@ More infos about this project at: https://www.affiliate-solutions.xyz/produkte/n
 
 > We are continuously improving this plugin. In future it will be possible to configure some nice options, so stay tuned!
 
+<a name="changelog"></a>
 ## Changelog
 
 ### 2.0.9
