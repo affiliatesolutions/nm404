@@ -7,7 +7,7 @@ Optimize your SEO rankings and keep users happy by serving alternative content o
 
 If a request will end up in a 404 error, this plugin redirects the request to the closest similar spelling url in your blog.
 The 301 redirect is done by using the "Levenshtein distance algorithm" to find the closest match.
-The recommended plugin to generate the required sitemap.xml for nm404 is [Better WordPress Google XML Sitemap](https://wordpress.org/plugins/bwp-google-xml-sitemaps/ "Better WordPress Google XML Sitemap").
+The recommended plugin to generate the required sitemap.xml for nm404 is <a href="https://wordpress.org/plugins/bwp-google-xml-sitemaps/" target="_blank">Better WordPress Google XML Sitemap</a>.
 
 ### Advantages
 
@@ -30,12 +30,12 @@ The recommended plugin to generate the required sitemap.xml for nm404 is [Better
 - [Changelog](#changelog)
 
 
-More infos about this project at: https://www.affiliate-solutions.xyz/produkte/nomore404/
+More infos about this project on <a href="https://www.affiliate-solutions.xyz/produkte/nomore404/" target="_blank">www.affiliate-solutions.xyz</a>
 
 <a name="installation"></a>
 ## Installation
 
-* Install any sitemap plugin like [Better WordPress Google XML Sitemap](https://wordpress.org/plugins/bwp-google-xml-sitemaps/ "Better WordPress Google XML Sitemap") to generate the needed sitemap.xml for nm404
+* Install any sitemap plugin like <a href="https://wordpress.org/plugins/bwp-google-xml-sitemaps/" target="_blank">Better WordPress Google XML Sitemap</a> to generate the needed sitemap.xml for nm404
 * Activate the plugin nm404
 * Optionally configure the settings of nm404 for better speed or better result
 
